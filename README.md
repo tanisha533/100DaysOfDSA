@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/tanisha533/100DaysOfDSA/tree/master/0074-search-a-2d-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/tanisha533/100DaysOfDSA/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
@@ -13,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/tanisha533/100DaysOfDSA/tree/master/0560-subarray-sum-equals-k) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/tanisha533/100DaysOfDSA/tree/master/0074-search-a-2d-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/tanisha533/100DaysOfDSA/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
