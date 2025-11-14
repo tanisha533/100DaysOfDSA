@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/tanisha533/100DaysOfDSA/tree/master/0074-search-a-2d-matrix) |
 | [0303-range-sum-query-immutable](https://github.com/tanisha533/100DaysOfDSA/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/tanisha533/100DaysOfDSA/tree/master/0347-top-k-frequent-elements) |
+| [0525-contiguous-array](https://github.com/tanisha533/100DaysOfDSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/tanisha533/100DaysOfDSA/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
@@ -16,11 +17,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/tanisha533/100DaysOfDSA/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/tanisha533/100DaysOfDSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/tanisha533/100DaysOfDSA/tree/master/0347-top-k-frequent-elements) |
+| [0525-contiguous-array](https://github.com/tanisha533/100DaysOfDSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/tanisha533/100DaysOfDSA/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/tanisha533/100DaysOfDSA/tree/master/0303-range-sum-query-immutable) |
+| [0525-contiguous-array](https://github.com/tanisha533/100DaysOfDSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/tanisha533/100DaysOfDSA/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
 |  |
