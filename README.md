@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/tanisha533/100DaysOfDSA/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/tanisha533/100DaysOfDSA/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/tanisha533/100DaysOfDSA/tree/master/0206-reverse-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/tanisha533/100DaysOfDSA/tree/master/0328-odd-even-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/tanisha533/100DaysOfDSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Bit Manipulation
 |  |
