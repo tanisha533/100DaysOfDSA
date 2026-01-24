@@ -238,5 +238,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/tanisha533/100DaysOfDSA/tree/master/0197-rising-temperature) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/tanisha533/100DaysOfDSA/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 <!---LeetCode Topics End-->
