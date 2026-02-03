@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/tanisha533/100DaysOfDSA/tree/master/0547-number-of-provinces) |
 | [0872-leaf-similar-trees](https://github.com/tanisha533/100DaysOfDSA/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/tanisha533/100DaysOfDSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/tanisha533/100DaysOfDSA/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Binary Tree
 |  |
 | ------- |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/tanisha533/100DaysOfDSA/tree/master/0112-path-sum) |
 | [0547-number-of-provinces](https://github.com/tanisha533/100DaysOfDSA/tree/master/0547-number-of-provinces) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/tanisha533/100DaysOfDSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/tanisha533/100DaysOfDSA/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Database
 |  |
 | ------- |
@@ -254,4 +256,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/tanisha533/100DaysOfDSA/tree/master/0547-number-of-provinces) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/tanisha533/100DaysOfDSA/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 <!---LeetCode Topics End-->
