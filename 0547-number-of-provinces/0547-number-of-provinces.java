@@ -1,30 +1,29 @@
 class Solution {
-    public int findCircleNum(int[][] isConnected) {
-        List<List<Integer>> graph = new ArrayList<>();
-        for(int i=0; i<isConnected.length; i++){
-            graph.add(new ArrayList<>()); 
-}        
-     for (int i = 0; i<isConnected.length; i++) {
-    for (int j = 0; j<isConnected[i].length; j++) {
-        if (isConnected[i][j] == 1) {
-            graph.get(i).add(j);
+    public int findCircleNum(int[][] adj) {
+        int n= adj.length;
+        int count=0;
+        boolean[] visit=new boolean[n];
+        for(int i=0; i<n; i++){
+            if(!visit[i]){
+                bfs(i,visit,adj);
+                count++;
+            }
         }
-    }}
-    boolean visit[]=new boolean[graph.size()];
-    int provinces=0;
-    for(int i=0; i<graph.size(); i++){
-        if(!visit[i]){
-            provinces++;
-            dfs(graph,i,visit);
+        return count;
+    }
+    public void bfs(int i, boolean[] visit, int[][] adj){
+        int n=adj.length;
+        visit[i]=true;
+        Queue<Integer> q= new LinkedList<>();
+        q.add(i);
+        while(q.size()>0){
+            int front=q.remove();
+            for(int j=0; j<n; j++){
+                if(adj[front][j]==1 && visit[j]==false){
+                    q.add(j);
+                    visit[j]=true;
+                }
+            }
         }
     }
-    return provinces;
-}
-    public void dfs( List<List<Integer>> graph, int curr,boolean visit[]){
-    visit[curr]=true;
-    for(int neighbor : graph.get(curr)){
-        if(!visit[neighbor]){
-          dfs(graph,neighbor,visit);}
-    }
-     }
 }
