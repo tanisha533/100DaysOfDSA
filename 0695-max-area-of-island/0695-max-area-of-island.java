@@ -1,6 +1,6 @@
 class Solution {
     public int maxAreaOfIsland(int[][] grid) {
-         int n = grid.length;
+        int n = grid.length;
         int m = grid[0].length;
         boolean[][] visit = new boolean[n][m];
         int maxArea = 0;
