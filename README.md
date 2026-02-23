@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/tanisha533/100DaysOfDSA/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/tanisha533/100DaysOfDSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/tanisha533/100DaysOfDSA/tree/master/0733-flood-fill) |
+| [0735-asteroid-collision](https://github.com/tanisha533/100DaysOfDSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/tanisha533/100DaysOfDSA/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/tanisha533/100DaysOfDSA/tree/master/0867-transpose-matrix) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/tanisha533/100DaysOfDSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/tanisha533/100DaysOfDSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/tanisha533/100DaysOfDSA/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/tanisha533/100DaysOfDSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/tanisha533/100DaysOfDSA/tree/master/0739-daily-temperatures) |
 | [2390-removing-stars-from-a-string](https://github.com/tanisha533/100DaysOfDSA/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/tanisha533/100DaysOfDSA/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/tanisha533/100DaysOfDSA/tree/master/0867-transpose-matrix) |
 | [2390-removing-stars-from-a-string](https://github.com/tanisha533/100DaysOfDSA/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
