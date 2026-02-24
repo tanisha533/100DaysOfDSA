@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/tanisha533/100DaysOfDSA/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/tanisha533/100DaysOfDSA/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/tanisha533/100DaysOfDSA/tree/master/0872-leaf-similar-trees) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/tanisha533/100DaysOfDSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/tanisha533/100DaysOfDSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/tanisha533/100DaysOfDSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/tanisha533/100DaysOfDSA/tree/master/0733-flood-fill) |
 | [0872-leaf-similar-trees](https://github.com/tanisha533/100DaysOfDSA/tree/master/0872-leaf-similar-trees) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/tanisha533/100DaysOfDSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/tanisha533/100DaysOfDSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/tanisha533/100DaysOfDSA/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Binary Tree
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/tanisha533/100DaysOfDSA/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/tanisha533/100DaysOfDSA/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/tanisha533/100DaysOfDSA/tree/master/0872-leaf-similar-trees) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/tanisha533/100DaysOfDSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/tanisha533/100DaysOfDSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
