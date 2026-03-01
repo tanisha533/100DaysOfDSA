@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/tanisha533/100DaysOfDSA/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/tanisha533/100DaysOfDSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/tanisha533/100DaysOfDSA/tree/master/0013-roman-to-integer) |
 | [1390-four-divisors](https://github.com/tanisha533/100DaysOfDSA/tree/master/1390-four-divisors) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/tanisha533/100DaysOfDSA/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/tanisha533/100DaysOfDSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0092-reverse-linked-list-ii](https://github.com/tanisha533/100DaysOfDSA/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/tanisha533/100DaysOfDSA/tree/master/0141-linked-list-cycle) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/tanisha533/100DaysOfDSA/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/tanisha533/100DaysOfDSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/tanisha533/100DaysOfDSA/tree/master/0206-reverse-linked-list) |
 ## Stack
