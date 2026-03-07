@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/tanisha533/100DaysOfDSA/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/tanisha533/100DaysOfDSA/tree/master/0867-transpose-matrix) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/tanisha533/100DaysOfDSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0994-rotting-oranges](https://github.com/tanisha533/100DaysOfDSA/tree/master/0994-rotting-oranges) |
 | [1207-unique-number-of-occurrences](https://github.com/tanisha533/100DaysOfDSA/tree/master/1207-unique-number-of-occurrences) |
 | [1390-four-divisors](https://github.com/tanisha533/100DaysOfDSA/tree/master/1390-four-divisors) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tanisha533/100DaysOfDSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/tanisha533/100DaysOfDSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/tanisha533/100DaysOfDSA/tree/master/0733-flood-fill) |
 | [0867-transpose-matrix](https://github.com/tanisha533/100DaysOfDSA/tree/master/0867-transpose-matrix) |
+| [0994-rotting-oranges](https://github.com/tanisha533/100DaysOfDSA/tree/master/0994-rotting-oranges) |
 ## Two Pointers
 |  |
 | ------- |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/tanisha533/100DaysOfDSA/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/tanisha533/100DaysOfDSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/tanisha533/100DaysOfDSA/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/tanisha533/100DaysOfDSA/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/tanisha533/100DaysOfDSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/tanisha533/100DaysOfDSA/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Database
