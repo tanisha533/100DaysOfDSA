@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/tanisha533/100DaysOfDSA/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/tanisha533/100DaysOfDSA/tree/master/0014-longest-common-prefix) |
 | [0074-search-a-2d-matrix](https://github.com/tanisha533/100DaysOfDSA/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/tanisha533/100DaysOfDSA/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tanisha533/100DaysOfDSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/tanisha533/100DaysOfDSA/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanisha533/100DaysOfDSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/tanisha533/100DaysOfDSA/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/tanisha533/100DaysOfDSA/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/tanisha533/100DaysOfDSA/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tanisha533/100DaysOfDSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0695-max-area-of-island](https://github.com/tanisha533/100DaysOfDSA/tree/master/0695-max-area-of-island) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/tanisha533/100DaysOfDSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/tanisha533/100DaysOfDSA/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tanisha533/100DaysOfDSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0079-word-search](https://github.com/tanisha533/100DaysOfDSA/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/tanisha533/100DaysOfDSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/tanisha533/100DaysOfDSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/tanisha533/100DaysOfDSA/tree/master/0242-valid-anagram) |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/tanisha533/100DaysOfDSA/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/tanisha533/100DaysOfDSA/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/tanisha533/100DaysOfDSA/tree/master/0257-binary-tree-paths) |
 ## Tree
@@ -232,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/tanisha533/100DaysOfDSA/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tanisha533/100DaysOfDSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/tanisha533/100DaysOfDSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/tanisha533/100DaysOfDSA/tree/master/0113-path-sum-ii) |
