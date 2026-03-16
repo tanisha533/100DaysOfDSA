@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/tanisha533/100DaysOfDSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/tanisha533/100DaysOfDSA/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanisha533/100DaysOfDSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0198-house-robber](https://github.com/tanisha533/100DaysOfDSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/tanisha533/100DaysOfDSA/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanisha533/100DaysOfDSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tanisha533/100DaysOfDSA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/tanisha533/100DaysOfDSA/tree/master/0005-longest-palindromic-substring) |
 | [0063-unique-paths-ii](https://github.com/tanisha533/100DaysOfDSA/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/tanisha533/100DaysOfDSA/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/tanisha533/100DaysOfDSA/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/tanisha533/100DaysOfDSA/tree/master/0392-is-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tanisha533/100DaysOfDSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Breadth-First Search
