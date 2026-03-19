@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tanisha533/100DaysOfDSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1732-find-the-highest-altitude](https://github.com/tanisha533/100DaysOfDSA/tree/master/1732-find-the-highest-altitude) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/tanisha533/100DaysOfDSA/tree/master/2215-find-the-difference-of-two-arrays) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/tanisha533/100DaysOfDSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/tanisha533/100DaysOfDSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/tanisha533/100DaysOfDSA/tree/master/0560-subarray-sum-equals-k) |
 | [1732-find-the-highest-altitude](https://github.com/tanisha533/100DaysOfDSA/tree/master/1732-find-the-highest-altitude) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/tanisha533/100DaysOfDSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Binary Search
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/tanisha533/100DaysOfDSA/tree/master/0733-flood-fill) |
 | [0867-transpose-matrix](https://github.com/tanisha533/100DaysOfDSA/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/tanisha533/100DaysOfDSA/tree/master/0994-rotting-oranges) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/tanisha533/100DaysOfDSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Two Pointers
 |  |
 | ------- |
