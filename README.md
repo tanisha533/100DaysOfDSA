@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/tanisha533/100DaysOfDSA/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/tanisha533/100DaysOfDSA/tree/master/0014-longest-common-prefix) |
+| [0046-permutations](https://github.com/tanisha533/100DaysOfDSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/tanisha533/100DaysOfDSA/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/tanisha533/100DaysOfDSA/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/tanisha533/100DaysOfDSA/tree/master/0074-search-a-2d-matrix) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/tanisha533/100DaysOfDSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/tanisha533/100DaysOfDSA/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/tanisha533/100DaysOfDSA/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/tanisha533/100DaysOfDSA/tree/master/0113-path-sum-ii) |
