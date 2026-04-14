@@ -9,7 +9,7 @@ class Solution {
 
           int left = 0;
         for (int right = k; right < nums.length; right++) {
-            windowSum += nums[right];      // add new element
+            windowSum += nums[right];     // add new element
             windowSum -= nums[left];       // remove old element
             left++;                        // move window ahead
  
@@ -18,4 +18,5 @@ class Solution {
         }
         return avg;
     }
-}
+  
+    }
