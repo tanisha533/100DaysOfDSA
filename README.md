@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/tanisha533/100DaysOfDSA/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/tanisha533/100DaysOfDSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/tanisha533/100DaysOfDSA/tree/master/0347-top-k-frequent-elements) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tanisha533/100DaysOfDSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/tanisha533/100DaysOfDSA/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/tanisha533/100DaysOfDSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/tanisha533/100DaysOfDSA/tree/master/0560-subarray-sum-equals-k) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/tanisha533/100DaysOfDSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/tanisha533/100DaysOfDSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/tanisha533/100DaysOfDSA/tree/master/0347-top-k-frequent-elements) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tanisha533/100DaysOfDSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/tanisha533/100DaysOfDSA/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/tanisha533/100DaysOfDSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/tanisha533/100DaysOfDSA/tree/master/0560-subarray-sum-equals-k) |
