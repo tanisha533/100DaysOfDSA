@@ -1,12 +1,15 @@
 class Solution {
     public List<Integer> findDuplicates(int[] nums) {
-        Set<Integer> set= new HashSet<>();
-        ArrayList<Integer> list=new ArrayList<>();
+        List<Integer> list=new ArrayList<>();
         for(int i=0; i<nums.length; i++){
-            if(set.contains(nums[i])){
-            list.add(nums[i]);
-            }
-            set.add(nums[i]);
+            int idx= Math.abs(nums[i]) - 1;
+
+           if(nums[idx]<0){ //already visited
+        list.add(Math.abs(nums[i])); //duplicate mila
+        }
+        else{
+              nums[idx]=-nums[idx];
+        }
         }
         return list;
     }
