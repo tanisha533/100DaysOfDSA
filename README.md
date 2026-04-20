@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/tanisha533/100DaysOfDSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/tanisha533/100DaysOfDSA/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/tanisha533/100DaysOfDSA/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/tanisha533/100DaysOfDSA/tree/master/0645-set-mismatch) |
 | [0695-max-area-of-island](https://github.com/tanisha533/100DaysOfDSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/tanisha533/100DaysOfDSA/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/tanisha533/100DaysOfDSA/tree/master/0735-asteroid-collision) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/tanisha533/100DaysOfDSA/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/tanisha533/100DaysOfDSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/tanisha533/100DaysOfDSA/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/tanisha533/100DaysOfDSA/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/tanisha533/100DaysOfDSA/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/tanisha533/100DaysOfDSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1207-unique-number-of-occurrences](https://github.com/tanisha533/100DaysOfDSA/tree/master/1207-unique-number-of-occurrences) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/tanisha533/100DaysOfDSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/tanisha533/100DaysOfDSA/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tanisha533/100DaysOfDSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0645-set-mismatch](https://github.com/tanisha533/100DaysOfDSA/tree/master/0645-set-mismatch) |
 | [1657-determine-if-two-strings-are-close](https://github.com/tanisha533/100DaysOfDSA/tree/master/1657-determine-if-two-strings-are-close) |
 ## Divide and Conquer
 |  |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/tanisha533/100DaysOfDSA/tree/master/0287-find-the-duplicate-number) |
+| [0645-set-mismatch](https://github.com/tanisha533/100DaysOfDSA/tree/master/0645-set-mismatch) |
 | [1009-complement-of-base-10-integer](https://github.com/tanisha533/100DaysOfDSA/tree/master/1009-complement-of-base-10-integer) |
 ## Recursion
 |  |
