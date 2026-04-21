@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/tanisha533/100DaysOfDSA/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/tanisha533/100DaysOfDSA/tree/master/0014-longest-common-prefix) |
+| [0041-first-missing-positive](https://github.com/tanisha533/100DaysOfDSA/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/tanisha533/100DaysOfDSA/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/tanisha533/100DaysOfDSA/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/tanisha533/100DaysOfDSA/tree/master/0051-n-queens) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanisha533/100DaysOfDSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/tanisha533/100DaysOfDSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/tanisha533/100DaysOfDSA/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/tanisha533/100DaysOfDSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/tanisha533/100DaysOfDSA/tree/master/0049-group-anagrams) |
 | [0133-clone-graph](https://github.com/tanisha533/100DaysOfDSA/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/tanisha533/100DaysOfDSA/tree/master/0141-linked-list-cycle) |
