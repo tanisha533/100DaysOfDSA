@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/tanisha533/100DaysOfDSA/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/tanisha533/100DaysOfDSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/tanisha533/100DaysOfDSA/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/tanisha533/100DaysOfDSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/tanisha533/100DaysOfDSA/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/tanisha533/100DaysOfDSA/tree/master/0645-set-mismatch) |
 | [0695-max-area-of-island](https://github.com/tanisha533/100DaysOfDSA/tree/master/0695-max-area-of-island) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/tanisha533/100DaysOfDSA/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/tanisha533/100DaysOfDSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/tanisha533/100DaysOfDSA/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/tanisha533/100DaysOfDSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/tanisha533/100DaysOfDSA/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/tanisha533/100DaysOfDSA/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/tanisha533/100DaysOfDSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/tanisha533/100DaysOfDSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/tanisha533/100DaysOfDSA/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tanisha533/100DaysOfDSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/tanisha533/100DaysOfDSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/tanisha533/100DaysOfDSA/tree/master/0645-set-mismatch) |
 | [1657-determine-if-two-strings-are-close](https://github.com/tanisha533/100DaysOfDSA/tree/master/1657-determine-if-two-strings-are-close) |
 ## Divide and Conquer
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/tanisha533/100DaysOfDSA/tree/master/0347-top-k-frequent-elements) |
+| [0594-longest-harmonious-subsequence](https://github.com/tanisha533/100DaysOfDSA/tree/master/0594-longest-harmonious-subsequence) |
 | [1657-determine-if-two-strings-are-close](https://github.com/tanisha533/100DaysOfDSA/tree/master/1657-determine-if-two-strings-are-close) |
 ## Quickselect
 |  |
@@ -211,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanisha533/100DaysOfDSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0594-longest-harmonious-subsequence](https://github.com/tanisha533/100DaysOfDSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/tanisha533/100DaysOfDSA/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/tanisha533/100DaysOfDSA/tree/master/0904-fruit-into-baskets) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/tanisha533/100DaysOfDSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
