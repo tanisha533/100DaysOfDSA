@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/tanisha533/100DaysOfDSA/tree/master/1652-defuse-the-bomb) |
 | [1732-find-the-highest-altitude](https://github.com/tanisha533/100DaysOfDSA/tree/master/1732-find-the-highest-altitude) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/tanisha533/100DaysOfDSA/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2367-number-of-arithmetic-triplets](https://github.com/tanisha533/100DaysOfDSA/tree/master/2367-number-of-arithmetic-triplets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tanisha533/100DaysOfDSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/tanisha533/100DaysOfDSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Hash Table
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/tanisha533/100DaysOfDSA/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/tanisha533/100DaysOfDSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/tanisha533/100DaysOfDSA/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2367-number-of-arithmetic-triplets](https://github.com/tanisha533/100DaysOfDSA/tree/master/2367-number-of-arithmetic-triplets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tanisha533/100DaysOfDSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Prefix Sum
 |  |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/tanisha533/100DaysOfDSA/tree/master/0917-reverse-only-letters) |
 | [1768-merge-strings-alternately](https://github.com/tanisha533/100DaysOfDSA/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/tanisha533/100DaysOfDSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2367-number-of-arithmetic-triplets](https://github.com/tanisha533/100DaysOfDSA/tree/master/2367-number-of-arithmetic-triplets) |
 ## String
 |  |
 | ------- |
@@ -392,4 +395,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/tanisha533/100DaysOfDSA/tree/master/0023-merge-k-sorted-lists) |
+## Enumeration
+|  |
+| ------- |
+| [2367-number-of-arithmetic-triplets](https://github.com/tanisha533/100DaysOfDSA/tree/master/2367-number-of-arithmetic-triplets) |
 <!---LeetCode Topics End-->
