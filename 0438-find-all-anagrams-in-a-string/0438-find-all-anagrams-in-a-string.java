@@ -1,6 +1,7 @@
 class Solution {
     public List<Integer> findAnagrams(String s, String p) {
         List<Integer> list=new ArrayList<>();
+        if (s.length() < p.length()) return list;
         int[] count = new int[26];
         for(int i=0; i < p.length(); i++){
             int index = p.charAt(i) - 'a';
