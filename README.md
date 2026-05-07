@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/tanisha533/100DaysOfDSA/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/tanisha533/100DaysOfDSA/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/tanisha533/100DaysOfDSA/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/tanisha533/100DaysOfDSA/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/tanisha533/100DaysOfDSA/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/tanisha533/100DaysOfDSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/tanisha533/100DaysOfDSA/tree/master/0079-word-search) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/tanisha533/100DaysOfDSA/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/tanisha533/100DaysOfDSA/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanisha533/100DaysOfDSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tanisha533/100DaysOfDSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/tanisha533/100DaysOfDSA/tree/master/0347-top-k-frequent-elements) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tanisha533/100DaysOfDSA/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/tanisha533/100DaysOfDSA/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/tanisha533/100DaysOfDSA/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/tanisha533/100DaysOfDSA/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/tanisha533/100DaysOfDSA/tree/master/0198-house-robber) |
