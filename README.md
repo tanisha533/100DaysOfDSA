@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/tanisha533/100DaysOfDSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/tanisha533/100DaysOfDSA/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/tanisha533/100DaysOfDSA/tree/master/0867-transpose-matrix) |
+| [0881-boats-to-save-people](https://github.com/tanisha533/100DaysOfDSA/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/tanisha533/100DaysOfDSA/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/tanisha533/100DaysOfDSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0994-rotting-oranges](https://github.com/tanisha533/100DaysOfDSA/tree/master/0994-rotting-oranges) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/tanisha533/100DaysOfDSA/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/tanisha533/100DaysOfDSA/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/tanisha533/100DaysOfDSA/tree/master/0541-reverse-string-ii) |
+| [0881-boats-to-save-people](https://github.com/tanisha533/100DaysOfDSA/tree/master/0881-boats-to-save-people) |
 | [0917-reverse-only-letters](https://github.com/tanisha533/100DaysOfDSA/tree/master/0917-reverse-only-letters) |
 | [1768-merge-strings-alternately](https://github.com/tanisha533/100DaysOfDSA/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/tanisha533/100DaysOfDSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/tanisha533/100DaysOfDSA/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/tanisha533/100DaysOfDSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/tanisha533/100DaysOfDSA/tree/master/0645-set-mismatch) |
+| [0881-boats-to-save-people](https://github.com/tanisha533/100DaysOfDSA/tree/master/0881-boats-to-save-people) |
 | [1657-determine-if-two-strings-are-close](https://github.com/tanisha533/100DaysOfDSA/tree/master/1657-determine-if-two-strings-are-close) |
 ## Divide and Conquer
 |  |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/tanisha533/100DaysOfDSA/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/tanisha533/100DaysOfDSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/tanisha533/100DaysOfDSA/tree/master/0455-assign-cookies) |
+| [0881-boats-to-save-people](https://github.com/tanisha533/100DaysOfDSA/tree/master/0881-boats-to-save-people) |
 ## Sliding Window
 |  |
 | ------- |
