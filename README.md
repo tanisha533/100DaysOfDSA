@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/tanisha533/100DaysOfDSA/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/tanisha533/100DaysOfDSA/tree/master/0645-set-mismatch) |
 | [0695-max-area-of-island](https://github.com/tanisha533/100DaysOfDSA/tree/master/0695-max-area-of-island) |
+| [0713-subarray-product-less-than-k](https://github.com/tanisha533/100DaysOfDSA/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/tanisha533/100DaysOfDSA/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/tanisha533/100DaysOfDSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/tanisha533/100DaysOfDSA/tree/master/0739-daily-temperatures) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/tanisha533/100DaysOfDSA/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/tanisha533/100DaysOfDSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/tanisha533/100DaysOfDSA/tree/master/0560-subarray-sum-equals-k) |
+| [0713-subarray-product-less-than-k](https://github.com/tanisha533/100DaysOfDSA/tree/master/0713-subarray-product-less-than-k) |
 | [1732-find-the-highest-altitude](https://github.com/tanisha533/100DaysOfDSA/tree/master/1732-find-the-highest-altitude) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/tanisha533/100DaysOfDSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Binary Search
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/tanisha533/100DaysOfDSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/tanisha533/100DaysOfDSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tanisha533/100DaysOfDSA/tree/master/0349-intersection-of-two-arrays) |
+| [0713-subarray-product-less-than-k](https://github.com/tanisha533/100DaysOfDSA/tree/master/0713-subarray-product-less-than-k) |
 ## Matrix
 |  |
 | ------- |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/tanisha533/100DaysOfDSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/tanisha533/100DaysOfDSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/tanisha533/100DaysOfDSA/tree/master/0643-maximum-average-subarray-i) |
+| [0713-subarray-product-less-than-k](https://github.com/tanisha533/100DaysOfDSA/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/tanisha533/100DaysOfDSA/tree/master/0904-fruit-into-baskets) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/tanisha533/100DaysOfDSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tanisha533/100DaysOfDSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
