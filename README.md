@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/tanisha533/100DaysOfDSA/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/tanisha533/100DaysOfDSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/tanisha533/100DaysOfDSA/tree/master/0560-subarray-sum-equals-k) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/tanisha533/100DaysOfDSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/tanisha533/100DaysOfDSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/tanisha533/100DaysOfDSA/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/tanisha533/100DaysOfDSA/tree/master/0645-set-mismatch) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/tanisha533/100DaysOfDSA/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/tanisha533/100DaysOfDSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0541-reverse-string-ii](https://github.com/tanisha533/100DaysOfDSA/tree/master/0541-reverse-string-ii) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/tanisha533/100DaysOfDSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0821-shortest-distance-to-a-character](https://github.com/tanisha533/100DaysOfDSA/tree/master/0821-shortest-distance-to-a-character) |
 | [0881-boats-to-save-people](https://github.com/tanisha533/100DaysOfDSA/tree/master/0881-boats-to-save-people) |
 | [0917-reverse-only-letters](https://github.com/tanisha533/100DaysOfDSA/tree/master/0917-reverse-only-letters) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/tanisha533/100DaysOfDSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/tanisha533/100DaysOfDSA/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/tanisha533/100DaysOfDSA/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/tanisha533/100DaysOfDSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/tanisha533/100DaysOfDSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/tanisha533/100DaysOfDSA/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/tanisha533/100DaysOfDSA/tree/master/0646-maximum-length-of-pair-chain) |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/tanisha533/100DaysOfDSA/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/tanisha533/100DaysOfDSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/tanisha533/100DaysOfDSA/tree/master/0455-assign-cookies) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/tanisha533/100DaysOfDSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0646-maximum-length-of-pair-chain](https://github.com/tanisha533/100DaysOfDSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0881-boats-to-save-people](https://github.com/tanisha533/100DaysOfDSA/tree/master/0881-boats-to-save-people) |
 ## Sliding Window
@@ -308,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/tanisha533/100DaysOfDSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0225-implement-stack-using-queues](https://github.com/tanisha533/100DaysOfDSA/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/tanisha533/100DaysOfDSA/tree/master/0496-next-greater-element-i) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/tanisha533/100DaysOfDSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0735-asteroid-collision](https://github.com/tanisha533/100DaysOfDSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/tanisha533/100DaysOfDSA/tree/master/0739-daily-temperatures) |
 | [2390-removing-stars-from-a-string](https://github.com/tanisha533/100DaysOfDSA/tree/master/2390-removing-stars-from-a-string) |
@@ -316,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/tanisha533/100DaysOfDSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/tanisha533/100DaysOfDSA/tree/master/0496-next-greater-element-i) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/tanisha533/100DaysOfDSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/tanisha533/100DaysOfDSA/tree/master/0739-daily-temperatures) |
 ## Backtracking
 |  |
