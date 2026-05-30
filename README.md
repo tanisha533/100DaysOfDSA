@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/tanisha533/100DaysOfDSA/tree/master/0541-reverse-string-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/tanisha533/100DaysOfDSA/tree/master/0821-shortest-distance-to-a-character) |
 | [0917-reverse-only-letters](https://github.com/tanisha533/100DaysOfDSA/tree/master/0917-reverse-only-letters) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/tanisha533/100DaysOfDSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/tanisha533/100DaysOfDSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/tanisha533/100DaysOfDSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/tanisha533/100DaysOfDSA/tree/master/1768-merge-strings-alternately) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/tanisha533/100DaysOfDSA/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/tanisha533/100DaysOfDSA/tree/master/0594-longest-harmonious-subsequence) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/tanisha533/100DaysOfDSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/tanisha533/100DaysOfDSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tanisha533/100DaysOfDSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Quickselect
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/tanisha533/100DaysOfDSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0860-lemonade-change](https://github.com/tanisha533/100DaysOfDSA/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/tanisha533/100DaysOfDSA/tree/master/0881-boats-to-save-people) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/tanisha533/100DaysOfDSA/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Sliding Window
 |  |
 | ------- |
