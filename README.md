@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/tanisha533/100DaysOfDSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/tanisha533/100DaysOfDSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/tanisha533/100DaysOfDSA/tree/master/0349-intersection-of-two-arrays) |
+| [0435-non-overlapping-intervals](https://github.com/tanisha533/100DaysOfDSA/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tanisha533/100DaysOfDSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tanisha533/100DaysOfDSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tanisha533/100DaysOfDSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/tanisha533/100DaysOfDSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/tanisha533/100DaysOfDSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/tanisha533/100DaysOfDSA/tree/master/0349-intersection-of-two-arrays) |
+| [0435-non-overlapping-intervals](https://github.com/tanisha533/100DaysOfDSA/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tanisha533/100DaysOfDSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tanisha533/100DaysOfDSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/tanisha533/100DaysOfDSA/tree/master/0455-assign-cookies) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/tanisha533/100DaysOfDSA/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/tanisha533/100DaysOfDSA/tree/master/0334-increasing-triplet-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/tanisha533/100DaysOfDSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tanisha533/100DaysOfDSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/tanisha533/100DaysOfDSA/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/tanisha533/100DaysOfDSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -405,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/tanisha533/100DaysOfDSA/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/tanisha533/100DaysOfDSA/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/tanisha533/100DaysOfDSA/tree/master/0392-is-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/tanisha533/100DaysOfDSA/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/tanisha533/100DaysOfDSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tanisha533/100DaysOfDSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Breadth-First Search
