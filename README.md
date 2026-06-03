@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/tanisha533/100DaysOfDSA/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/tanisha533/100DaysOfDSA/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/tanisha533/100DaysOfDSA/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/tanisha533/100DaysOfDSA/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/tanisha533/100DaysOfDSA/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/tanisha533/100DaysOfDSA/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/tanisha533/100DaysOfDSA/tree/master/0051-n-queens) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/tanisha533/100DaysOfDSA/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/tanisha533/100DaysOfDSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/tanisha533/100DaysOfDSA/tree/master/0055-jump-game) |
 | [0334-increasing-triplet-subsequence](https://github.com/tanisha533/100DaysOfDSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/tanisha533/100DaysOfDSA/tree/master/0435-non-overlapping-intervals) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tanisha533/100DaysOfDSA/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/tanisha533/100DaysOfDSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/tanisha533/100DaysOfDSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/tanisha533/100DaysOfDSA/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/tanisha533/100DaysOfDSA/tree/master/0063-unique-paths-ii) |
