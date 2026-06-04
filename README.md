@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/tanisha533/100DaysOfDSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/tanisha533/100DaysOfDSA/tree/master/0189-rotate-array) |
 | [1390-four-divisors](https://github.com/tanisha533/100DaysOfDSA/tree/master/1390-four-divisors) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/tanisha533/100DaysOfDSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Trie
 |  |
 | ------- |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/tanisha533/100DaysOfDSA/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/tanisha533/100DaysOfDSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tanisha533/100DaysOfDSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/tanisha533/100DaysOfDSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -480,4 +482,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/tanisha533/100DaysOfDSA/tree/master/2367-number-of-arithmetic-triplets) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/tanisha533/100DaysOfDSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
