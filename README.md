@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/tanisha533/100DaysOfDSA/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/tanisha533/100DaysOfDSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1207-unique-number-of-occurrences](https://github.com/tanisha533/100DaysOfDSA/tree/master/1207-unique-number-of-occurrences) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/tanisha533/100DaysOfDSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1657-determine-if-two-strings-are-close](https://github.com/tanisha533/100DaysOfDSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tanisha533/100DaysOfDSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/tanisha533/100DaysOfDSA/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/tanisha533/100DaysOfDSA/tree/master/0821-shortest-distance-to-a-character) |
 | [0917-reverse-only-letters](https://github.com/tanisha533/100DaysOfDSA/tree/master/0917-reverse-only-letters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/tanisha533/100DaysOfDSA/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/tanisha533/100DaysOfDSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/tanisha533/100DaysOfDSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/tanisha533/100DaysOfDSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/tanisha533/100DaysOfDSA/tree/master/1768-merge-strings-alternately) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/tanisha533/100DaysOfDSA/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/tanisha533/100DaysOfDSA/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/tanisha533/100DaysOfDSA/tree/master/0904-fruit-into-baskets) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/tanisha533/100DaysOfDSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/tanisha533/100DaysOfDSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tanisha533/100DaysOfDSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1652-defuse-the-bomb](https://github.com/tanisha533/100DaysOfDSA/tree/master/1652-defuse-the-bomb) |
