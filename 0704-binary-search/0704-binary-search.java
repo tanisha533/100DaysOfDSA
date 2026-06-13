@@ -5,10 +5,10 @@ class Solution {
             int mid=l+(r-l)/2;
             if(nums[mid]==target) return mid;
             else if (nums[mid]<target){
-                l++;
+                l=mid+1;;
             }
             else{
-                r--;
+                r=mid-1;
             }
         }
         return -1;
