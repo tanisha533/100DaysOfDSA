@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tanisha533/100DaysOfDSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2390-removing-stars-from-a-string](https://github.com/tanisha533/100DaysOfDSA/tree/master/2390-removing-stars-from-a-string) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/tanisha533/100DaysOfDSA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [3612-process-string-with-special-operations-i](https://github.com/tanisha533/100DaysOfDSA/tree/master/3612-process-string-with-special-operations-i) |
 ## Math
 |  |
 | ------- |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/tanisha533/100DaysOfDSA/tree/master/0867-transpose-matrix) |
 | [2390-removing-stars-from-a-string](https://github.com/tanisha533/100DaysOfDSA/tree/master/2390-removing-stars-from-a-string) |
 | [3477-fruits-into-baskets-ii](https://github.com/tanisha533/100DaysOfDSA/tree/master/3477-fruits-into-baskets-ii) |
+| [3612-process-string-with-special-operations-i](https://github.com/tanisha533/100DaysOfDSA/tree/master/3612-process-string-with-special-operations-i) |
 ## Queue
 |  |
 | ------- |
