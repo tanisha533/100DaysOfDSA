@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/tanisha533/100DaysOfDSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/tanisha533/100DaysOfDSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/tanisha533/100DaysOfDSA/tree/master/0200-number-of-islands) |
+| [0213-house-robber-ii](https://github.com/tanisha533/100DaysOfDSA/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanisha533/100DaysOfDSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tanisha533/100DaysOfDSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/tanisha533/100DaysOfDSA/tree/master/0283-move-zeroes) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/tanisha533/100DaysOfDSA/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/tanisha533/100DaysOfDSA/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/tanisha533/100DaysOfDSA/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/tanisha533/100DaysOfDSA/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/tanisha533/100DaysOfDSA/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/tanisha533/100DaysOfDSA/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/tanisha533/100DaysOfDSA/tree/master/0646-maximum-length-of-pair-chain) |
