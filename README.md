@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/tanisha533/100DaysOfDSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1657-determine-if-two-strings-are-close](https://github.com/tanisha533/100DaysOfDSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1763-longest-nice-substring](https://github.com/tanisha533/100DaysOfDSA/tree/master/1763-longest-nice-substring) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/tanisha533/100DaysOfDSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tanisha533/100DaysOfDSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/tanisha533/100DaysOfDSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2367-number-of-arithmetic-triplets](https://github.com/tanisha533/100DaysOfDSA/tree/master/2367-number-of-arithmetic-triplets) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/tanisha533/100DaysOfDSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1763-longest-nice-substring](https://github.com/tanisha533/100DaysOfDSA/tree/master/1763-longest-nice-substring) |
 | [1768-merge-strings-alternately](https://github.com/tanisha533/100DaysOfDSA/tree/master/1768-merge-strings-alternately) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/tanisha533/100DaysOfDSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tanisha533/100DaysOfDSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2390-removing-stars-from-a-string](https://github.com/tanisha533/100DaysOfDSA/tree/master/2390-removing-stars-from-a-string) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/tanisha533/100DaysOfDSA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
