@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tanisha533/100DaysOfDSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2574-left-and-right-sum-differences](https://github.com/tanisha533/100DaysOfDSA/tree/master/2574-left-and-right-sum-differences) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/tanisha533/100DaysOfDSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/tanisha533/100DaysOfDSA/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3477-fruits-into-baskets-ii](https://github.com/tanisha533/100DaysOfDSA/tree/master/3477-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/tanisha533/100DaysOfDSA/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/tanisha533/100DaysOfDSA/tree/master/2574-left-and-right-sum-differences) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/tanisha533/100DaysOfDSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/tanisha533/100DaysOfDSA/tree/master/3427-sum-of-variable-length-subarrays) |
 ## Binary Search
 |  |
 | ------- |
