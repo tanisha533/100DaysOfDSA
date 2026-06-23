@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tanisha533/100DaysOfDSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2574-left-and-right-sum-differences](https://github.com/tanisha533/100DaysOfDSA/tree/master/2574-left-and-right-sum-differences) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/tanisha533/100DaysOfDSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/tanisha533/100DaysOfDSA/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/tanisha533/100DaysOfDSA/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3477-fruits-into-baskets-ii](https://github.com/tanisha533/100DaysOfDSA/tree/master/3477-fruits-into-baskets-ii) |
 ## Hash Table
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2256-minimum-average-difference](https://github.com/tanisha533/100DaysOfDSA/tree/master/2256-minimum-average-difference) |
 | [2574-left-and-right-sum-differences](https://github.com/tanisha533/100DaysOfDSA/tree/master/2574-left-and-right-sum-differences) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/tanisha533/100DaysOfDSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/tanisha533/100DaysOfDSA/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/tanisha533/100DaysOfDSA/tree/master/3427-sum-of-variable-length-subarrays) |
 ## Binary Search
 |  |
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/tanisha533/100DaysOfDSA/tree/master/0867-transpose-matrix) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/tanisha533/100DaysOfDSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/tanisha533/100DaysOfDSA/tree/master/2390-removing-stars-from-a-string) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/tanisha533/100DaysOfDSA/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3477-fruits-into-baskets-ii](https://github.com/tanisha533/100DaysOfDSA/tree/master/3477-fruits-into-baskets-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/tanisha533/100DaysOfDSA/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/tanisha533/100DaysOfDSA/tree/master/3614-process-string-with-special-operations-ii) |
