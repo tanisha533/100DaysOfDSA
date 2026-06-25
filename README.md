@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/tanisha533/100DaysOfDSA/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/tanisha533/100DaysOfDSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1390-four-divisors](https://github.com/tanisha533/100DaysOfDSA/tree/master/1390-four-divisors) |
+| [1480-running-sum-of-1d-array](https://github.com/tanisha533/100DaysOfDSA/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tanisha533/100DaysOfDSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1652-defuse-the-bomb](https://github.com/tanisha533/100DaysOfDSA/tree/master/1652-defuse-the-bomb) |
 | [1732-find-the-highest-altitude](https://github.com/tanisha533/100DaysOfDSA/tree/master/1732-find-the-highest-altitude) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/tanisha533/100DaysOfDSA/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/tanisha533/100DaysOfDSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/tanisha533/100DaysOfDSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1480-running-sum-of-1d-array](https://github.com/tanisha533/100DaysOfDSA/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/tanisha533/100DaysOfDSA/tree/master/1732-find-the-highest-altitude) |
 | [2256-minimum-average-difference](https://github.com/tanisha533/100DaysOfDSA/tree/master/2256-minimum-average-difference) |
 | [2574-left-and-right-sum-differences](https://github.com/tanisha533/100DaysOfDSA/tree/master/2574-left-and-right-sum-differences) |
