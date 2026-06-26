@@ -377,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/tanisha533/100DaysOfDSA/tree/master/0645-set-mismatch) |
 | [1009-complement-of-base-10-integer](https://github.com/tanisha533/100DaysOfDSA/tree/master/1009-complement-of-base-10-integer) |
 | [1763-longest-nice-substring](https://github.com/tanisha533/100DaysOfDSA/tree/master/1763-longest-nice-substring) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/tanisha533/100DaysOfDSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Recursion
 |  |
 | ------- |
