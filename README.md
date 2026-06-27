@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/tanisha533/100DaysOfDSA/tree/master/1732-find-the-highest-altitude) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/tanisha533/100DaysOfDSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/tanisha533/100DaysOfDSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/tanisha533/100DaysOfDSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/tanisha533/100DaysOfDSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2256-minimum-average-difference](https://github.com/tanisha533/100DaysOfDSA/tree/master/2256-minimum-average-difference) |
 | [2367-number-of-arithmetic-triplets](https://github.com/tanisha533/100DaysOfDSA/tree/master/2367-number-of-arithmetic-triplets) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1763-longest-nice-substring](https://github.com/tanisha533/100DaysOfDSA/tree/master/1763-longest-nice-substring) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/tanisha533/100DaysOfDSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tanisha533/100DaysOfDSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/tanisha533/100DaysOfDSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/tanisha533/100DaysOfDSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2367-number-of-arithmetic-triplets](https://github.com/tanisha533/100DaysOfDSA/tree/master/2367-number-of-arithmetic-triplets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tanisha533/100DaysOfDSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/tanisha533/100DaysOfDSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/tanisha533/100DaysOfDSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tanisha533/100DaysOfDSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/tanisha533/100DaysOfDSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Quickselect
 |  |
 | ------- |
