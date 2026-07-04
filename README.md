@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/tanisha533/100DaysOfDSA/tree/master/0821-shortest-distance-to-a-character) |
 | [0881-boats-to-save-people](https://github.com/tanisha533/100DaysOfDSA/tree/master/0881-boats-to-save-people) |
 | [0917-reverse-only-letters](https://github.com/tanisha533/100DaysOfDSA/tree/master/0917-reverse-only-letters) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/tanisha533/100DaysOfDSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/tanisha533/100DaysOfDSA/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/tanisha533/100DaysOfDSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/tanisha533/100DaysOfDSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/tanisha533/100DaysOfDSA/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/tanisha533/100DaysOfDSA/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/tanisha533/100DaysOfDSA/tree/master/0328-odd-even-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/tanisha533/100DaysOfDSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/tanisha533/100DaysOfDSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Bit Manipulation
 |  |
