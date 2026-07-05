@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/tanisha533/100DaysOfDSA/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/tanisha533/100DaysOfDSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/tanisha533/100DaysOfDSA/tree/master/0930-binary-subarrays-with-sum) |
+| [0946-validate-stack-sequences](https://github.com/tanisha533/100DaysOfDSA/tree/master/0946-validate-stack-sequences) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/tanisha533/100DaysOfDSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0994-rotting-oranges](https://github.com/tanisha533/100DaysOfDSA/tree/master/0994-rotting-oranges) |
 | [1207-unique-number-of-occurrences](https://github.com/tanisha533/100DaysOfDSA/tree/master/1207-unique-number-of-occurrences) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/tanisha533/100DaysOfDSA/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/tanisha533/100DaysOfDSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/tanisha533/100DaysOfDSA/tree/master/0739-daily-temperatures) |
+| [0946-validate-stack-sequences](https://github.com/tanisha533/100DaysOfDSA/tree/master/0946-validate-stack-sequences) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/tanisha533/100DaysOfDSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/tanisha533/100DaysOfDSA/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2390-removing-stars-from-a-string](https://github.com/tanisha533/100DaysOfDSA/tree/master/2390-removing-stars-from-a-string) |
@@ -534,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/tanisha533/100DaysOfDSA/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/tanisha533/100DaysOfDSA/tree/master/0867-transpose-matrix) |
+| [0946-validate-stack-sequences](https://github.com/tanisha533/100DaysOfDSA/tree/master/0946-validate-stack-sequences) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/tanisha533/100DaysOfDSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/tanisha533/100DaysOfDSA/tree/master/2390-removing-stars-from-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/tanisha533/100DaysOfDSA/tree/master/2696-minimum-string-length-after-removing-substrings) |
