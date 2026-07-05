@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/tanisha533/100DaysOfDSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/tanisha533/100DaysOfDSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/tanisha533/100DaysOfDSA/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2216-minimum-deletions-to-make-array-beautiful](https://github.com/tanisha533/100DaysOfDSA/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2256-minimum-average-difference](https://github.com/tanisha533/100DaysOfDSA/tree/master/2256-minimum-average-difference) |
 | [2367-number-of-arithmetic-triplets](https://github.com/tanisha533/100DaysOfDSA/tree/master/2367-number-of-arithmetic-triplets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tanisha533/100DaysOfDSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/tanisha533/100DaysOfDSA/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/tanisha533/100DaysOfDSA/tree/master/0881-boats-to-save-people) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/tanisha533/100DaysOfDSA/tree/master/1221-split-a-string-in-balanced-strings) |
+| [2216-minimum-deletions-to-make-array-beautiful](https://github.com/tanisha533/100DaysOfDSA/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 ## Sliding Window
 |  |
 | ------- |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/tanisha533/100DaysOfDSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/tanisha533/100DaysOfDSA/tree/master/0739-daily-temperatures) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/tanisha533/100DaysOfDSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2216-minimum-deletions-to-make-array-beautiful](https://github.com/tanisha533/100DaysOfDSA/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2390-removing-stars-from-a-string](https://github.com/tanisha533/100DaysOfDSA/tree/master/2390-removing-stars-from-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/tanisha533/100DaysOfDSA/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
