@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/tanisha533/100DaysOfDSA/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/tanisha533/100DaysOfDSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/tanisha533/100DaysOfDSA/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/tanisha533/100DaysOfDSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0821-shortest-distance-to-a-character](https://github.com/tanisha533/100DaysOfDSA/tree/master/0821-shortest-distance-to-a-character) |
 | [0860-lemonade-change](https://github.com/tanisha533/100DaysOfDSA/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/tanisha533/100DaysOfDSA/tree/master/0867-transpose-matrix) |
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/tanisha533/100DaysOfDSA/tree/master/0509-fibonacci-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/tanisha533/100DaysOfDSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/tanisha533/100DaysOfDSA/tree/master/0678-valid-parenthesis-string) |
+| [0746-min-cost-climbing-stairs](https://github.com/tanisha533/100DaysOfDSA/tree/master/0746-min-cost-climbing-stairs) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tanisha533/100DaysOfDSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/tanisha533/100DaysOfDSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Breadth-First Search
