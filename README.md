@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/tanisha533/100DaysOfDSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/tanisha533/100DaysOfDSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/tanisha533/100DaysOfDSA/tree/master/1657-determine-if-two-strings-are-close) |
+| [1668-maximum-repeating-substring](https://github.com/tanisha533/100DaysOfDSA/tree/master/1668-maximum-repeating-substring) |
 | [1763-longest-nice-substring](https://github.com/tanisha533/100DaysOfDSA/tree/master/1763-longest-nice-substring) |
 | [1768-merge-strings-alternately](https://github.com/tanisha533/100DaysOfDSA/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/tanisha533/100DaysOfDSA/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tanisha533/100DaysOfDSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1668-maximum-repeating-substring](https://github.com/tanisha533/100DaysOfDSA/tree/master/1668-maximum-repeating-substring) |
 ## Sorting
 |  |
 | ------- |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/tanisha533/100DaysOfDSA/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/tanisha533/100DaysOfDSA/tree/master/0746-min-cost-climbing-stairs) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tanisha533/100DaysOfDSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1668-maximum-repeating-substring](https://github.com/tanisha533/100DaysOfDSA/tree/master/1668-maximum-repeating-substring) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/tanisha533/100DaysOfDSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Breadth-First Search
 |  |
