@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/tanisha533/100DaysOfDSA/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/tanisha533/100DaysOfDSA/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/tanisha533/100DaysOfDSA/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/tanisha533/100DaysOfDSA/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/tanisha533/100DaysOfDSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/tanisha533/100DaysOfDSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/tanisha533/100DaysOfDSA/tree/master/0205-isomorphic-strings) |
@@ -499,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/tanisha533/100DaysOfDSA/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/tanisha533/100DaysOfDSA/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/tanisha533/100DaysOfDSA/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/tanisha533/100DaysOfDSA/tree/master/0091-decode-ways) |
 | [0119-pascals-triangle-ii](https://github.com/tanisha533/100DaysOfDSA/tree/master/0119-pascals-triangle-ii) |
 | [0198-house-robber](https://github.com/tanisha533/100DaysOfDSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/tanisha533/100DaysOfDSA/tree/master/0213-house-robber-ii) |
