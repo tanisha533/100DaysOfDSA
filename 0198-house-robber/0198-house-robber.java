@@ -1,14 +1,20 @@
 class Solution {
-    public int rob(int[] nums) {        
-        int prev1 = 0;
-        int prev2 = 0;
+    public int rob(int[] nums) {
+        //Memoization
+       int[] dp = new int[nums.length];
+        Arrays.fill(dp, -1);
+        return solve(0, nums, dp);
+    }
+    public int solve(int i, int[] nums, int[] dp) {
+          if (i >= nums.length)
+            return 0;
 
-        for(int num : nums){
-            int temp = Math.max(prev1, prev2 + num);
-            prev2 = prev1;
-            prev1 = temp;
-        }
+        if (dp[i] != -1)
+            return dp[i];
 
-        return prev1;
+        int rob = nums[i] + solve(i + 2, nums, dp);
+        int skip = solve(i + 1, nums, dp);
+
+        return dp[i] = Math.max(rob, skip);
     }
 }
